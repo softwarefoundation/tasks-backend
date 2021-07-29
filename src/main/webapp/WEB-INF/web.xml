@@ -22,9 +22,8 @@
   version="3.1"
   metadata-complete="true">
 
-    <description>
-      TASKS BACKEND
-    </description>
-    <display-name>TASKS BACKEND</display-name>
+    <version>1.0.0-SNAPHOST</version>
+    <description>Tasks Backend API</description>
+    <display-name>tasks-backend-api</display-name>
 
 </web-app>
